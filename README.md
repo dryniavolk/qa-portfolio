@@ -73,8 +73,8 @@ DevTools, Postman, Test IT, Miro, баг-трекинг «Ёжка».
 - **Языки:** Python, JavaScript (базово)
 - **Фреймворки:** pytest, Selenium, Requests
 - **Инструменты:** Postman, Allure, Git, VS Code, webdriver-manager
-- **Баг-трекинг:** Jira, «Ёжка»
-- **Тест-менеджмент:** Test IT, Qase.io
+- **Баг-трекинг:** «Ёжка»
+- **Тест-менеджмент:** Test IT
 - **CI/CD (в планах):** GitHub Actions
 
 ---
